@@ -1,6 +1,1 @@
-tensorflow
-pandas
-numpy
 nltk
-scikit-learn
-transformers
